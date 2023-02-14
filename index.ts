@@ -5,14 +5,14 @@ const app = express()
 
 app.listen('3000')
 
-// 1º Endpoint
+// 1º Endpoint: retorna lista de usuários
 app.route('/users').get( (req: Request, res: Response) => {
     axios.get('https://mockend.com/juunegreiros/BE-test-api/users')
     .then((result) => res.send(result.data))
     .catch((error) => console.error(`error`))
 })
 
-// 2º Endpoint
+// 2º Endpoint: retorna lista de produtos 
 app.route('/products').get( (req: Request, res: Response) => {
     axios.get('https://mockend.com/juunegreiros/BE-test-api/products')
     .then((result) => res.send(result.data))
