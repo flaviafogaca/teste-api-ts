@@ -12,13 +12,14 @@ Esse projeto consiste em criar uma API que, além de retornar uma listagem de us
   <li>A API deve ter um endpoint que busca os dados no mockend e retorna a lista dos usuários :heavy_check_mark:</li> 
   <li>A API deve ter um endpoint que busca os dados no mockend e retorna a lista de produtos :heavy_check_mark:</li>
   <li>A API deve ter um endpoint que recebe o id do usuário e uma lista com os ids do produto e retorna o valor que o usuário irá pagar por esses produtos :x:</li>
-  <li>Os commits do projeto devem ser descritivos (gitflow) :sparkles::heavy_check_mark:<li>
-  <li>O README deve ser descritivo :sparkles::heavy_check_mark:</li>
+  <li>Os commits do projeto devem ser descritivos(gitflow):sparkles::heavy_check_mark:</li>
+  <li>O Projeto deve apresentar documentação descritiva (README) :sparkles::heavy_check_mark:</li>
   <li>A API deve ser validada por testes unitários :sparkles::x:</li>
 </ul>
 
 ### 📝 Requisitos para execução 
 
+1. Na parta raíz do projeto, abra o terminal e digite "npm install";
 
 ### 📣 Utilização
 
