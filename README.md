@@ -12,35 +12,29 @@ Esse projeto consiste em criar uma API que, além de retornar uma listagem de us
   <li>A API deve ter um endpoint que busca os dados no mockend e retorna a lista dos usuários :heavy_check_mark:</li> 
   <li>A API deve ter um endpoint que busca os dados no mockend e retorna a lista de produtos :heavy_check_mark:</li>
   <li>A API deve ter um endpoint que recebe o id do usuário e uma lista com os ids do produto e retorna o valor que o usuário irá pagar por esses produtos :x:</li>
-  <li>Os commits do projeto devem ser descritivos(gitflow):sparkles::heavy_check_mark:</li>
-  <li>O Projeto deve apresentar documentação descritiva (README) :sparkles::heavy_check_mark:</li>
+  <li>Os commits do projeto devem ser descritivos (gitflow):sparkles::heavy_check_mark:</li>
+  <li>O Projeto deve apresentar documentação (readme) :sparkles::heavy_check_mark:</li>
   <li>A API deve ser validada por testes unitários :sparkles::x:</li>
 </ul>
 
-### 📝 Requisitos de execução 
+### 🛠 Tecnologias
 
-<ul>
-    <li>Node.js v16.15.0
-</ul>
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### 🚀 Tecnologias utilizadas 
-
-<ul>
-    <li>Node.js</li>
-    <li>Typescript</li>
-    <li>Express</li>
-    <li>Axios</li>
-    <li>Nodemon</li>
-</ul>
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/ptbr/)
+- [Express](https://expressjs.com/pt-br/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
 
 ### 📣 Utilização
 
-1. Entre na pasta raíz do projeto `teste-api-ts`;
+1. Entre na pasta raíz do projeto `teste-api-ts`
 2. No terminal do editor de código utilizado, rodar o comando `npm install`
 3. No terminal do editor de código utilizado, rodar o comando `npm start`
-4. Para acessar ao primeiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/users`
-5. Para acessar ao segundo endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/products`
-6. Para acessar ao terceiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/calculate`
+4. Para acessar o primeiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/users`
+5. Para acessar o segundo endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/products`
+6. Para acessar o terceiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/calculate`
 
 </br>
 <p align="center">
