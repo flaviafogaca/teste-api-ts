@@ -1,0 +1,24 @@
+{
+  "name": "teste-api-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "nodemon ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviafogaca/teste-api-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviafogaca/teste-api-ts/issues"
+  },
+  "homepage": "https://github.com/flaviafogaca/teste-api-ts#readme",
+  "dependencies": {
+    "axios": "^1.3.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
