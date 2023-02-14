@@ -19,7 +19,7 @@ Esse projeto consiste em criar uma API que, além de retornar uma listagem de us
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -32,9 +32,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 1. Entre na pasta raíz do projeto `teste-api-ts`
 2. No terminal do editor de código utilizado, rodar o comando `npm install`
 3. No terminal do editor de código utilizado, rodar o comando `npm start`
-4. Para acessar o primeiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/users`
-5. Para acessar o segundo endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/products`
-6. Para acessar o terceiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/calculate`
+4. Para acessar o primeiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/users`. Esse endpoint retorna a lista de usuários.
+5. Para acessar o segundo endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/products`. Esse endpoint retorna de produtos.
+6. Para acessar o terceiro endpoint, abra seu browser e na barra de pesquisa digite `http://localhost:3000/calculate`. Esse endpoint ainda está em construção. 
 
 </br>
 <p align="center">
